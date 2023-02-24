@@ -13,9 +13,8 @@
         "KI",
         "PODER",
         "FUERZA"
-      ],
-      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/55QHEOQRQBEPTF5LRJK57MDEP4.jpg",
-    },
+      ]
+    }, 
     {
       "name":"ROCHI",
       "age": 240,
